@@ -4,6 +4,7 @@ def multiply_by_two_v1(numbers):
         result.append(number * 2)
     return result
 
+
 numbers = range(1, 6)
 
 
