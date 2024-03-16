@@ -1,8 +1,6 @@
 name: Python Style Checker
 
-on:
-  push:
-    branches: [ "python_oop" ]
+on: push
 
 jobs:
   style-check:
